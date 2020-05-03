@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title> Just Some Okapi Facts </title>
+    </head>
+    <body bgcolor="blue">
+        <h1> Ok so this is a webpage for Okapis!! </h1>
+        
+          <hr>
+          
+          <p> Here's my unordered list of why I like these animals</p>
+          
+          <hr>
+          
+          <ul>
+<li> They look really cool</li>
+<li> People thought that they were mythical creatures</li>
+<li> Okapis may have been the inspiration for unicorns</li>
+          <ul>
+
+           <hr>
+        
+        <p> Here's my ordered list of okapi facts </p>
+        
+          <hr>
+          
+          <ol type = "I">
+<li>They can lick their ear</li>
+<li>Four stomachs assist in their digestion</li>
+<li>Giaffes happen to be their cousins</li>
+</ol>
+        
+        <hr>
+        
+        <p> Here's a nice lil image </p>
+        
+        <hr>
+        
+        <img src="https://cdn1.parksmedia.wdprapps.disney.com/media/blog/wp-content/uploads/2012/03/oka118944LARGE.jpg>
+        
+        <hr>
+        
+        <p> Ok here's this picture, enjoy </p>
+        
+        <img src="https://animalmaniac.b-cdn.net/wp-content/uploads/2019/02/okapi-baby.jpg">
+        
+          <hr>
+       
+        <p> Ok, thank you for your time </p>
+        
+    </body>
+</html>
